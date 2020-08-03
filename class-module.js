@@ -1,1 +1,1 @@
-console.log("Class moduke")l
+console.log("Class moduke");
