@@ -1,1 +1,3 @@
-console.log("Function module");
+export function f() {
+  console.log("Function module");
+}
