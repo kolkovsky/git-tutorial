@@ -1,1 +1,1 @@
-console.log('Script Logger');
+console.log('Script');
